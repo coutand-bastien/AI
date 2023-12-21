@@ -1,2 +1,5 @@
 .idea/
 __pycache__/
+/docs/source
+/docs/Makefile
+/docs/make.bat
